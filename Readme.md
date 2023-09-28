@@ -1,4 +1,4 @@
- # Load balancing Sample
+# NGINX dual load-balancer - built with Flask (Python)
 
  #### How to use :
  - To launch the APP, just open a terminal, go inside the unzipped folder, at the same level with docker-compose.yml, and execute : docker-compose up -d
